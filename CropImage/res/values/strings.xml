@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="app_name">Shoot And Crop</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+	<string name ="action_settings">Settings</string>
+</resources>
