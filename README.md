@@ -1,4 +1,4 @@
 android-Crop-Image
 ==================
 
-android crop image in circular shape
+android crop image in circular shape demo
